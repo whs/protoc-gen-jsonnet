@@ -31,3 +31,7 @@ test.Test.new()
 ## TODO
 
 - [ ] WKT
+
+## License
+
+[Licensed under 3 clause BSD license](LICENSE) with output exception, same as Protobuf itself.
